@@ -466,7 +466,7 @@ Q_button.pack(side='top', pady=8, padx=3)
 
 
 def about():
-    msg.showinfo('关于', '代码已在Github开源，欢迎fork和star\n项目地址：')
+    msg.showinfo('关于', '代码已在Github开源，欢迎fork和star\n项目地址：https://github.com/Dagwbl/Network-graph-theory')
 
 
 def helps():
